@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+body{
+    background-color: #008F8C;
+}
+
+h1#principal{
+    color: #015958;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 34px;
+    text-align: center;
+}
+
+.basico{
+    color: white;
+}
+
+.intermediario{
+    color: red;
+    font-weight: bold;
+}
+
+.avançado{
+    color: blue;
+}
+
+.destaque{
+    font-weight: bold;
+    background-color: black;
+    color: white;
+}

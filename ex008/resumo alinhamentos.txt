@@ -1,0 +1,17 @@
+ <style>
+        body{
+            font: normal 16px Arial, Verdana, serif;
+        }
+        h1{
+            text-align: center; alinha o texto no centro
+        }
+        h2{
+            text-align: center; 
+        }
+        p{
+            text-align: justify; deixa o texto todo alinhado
+	    text-indent: 30px; deixa o texto identado
+        }
+    </style>
+
+eu vou conseguir

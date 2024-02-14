@@ -1,0 +1,31 @@
+user agent =  e sempre o navegador que está exibindo o conteudo
+
+
+margin-top: 10px;
+margin-right: 10px;
+margin-bottom: 10px;  = no mesmo esquema de padding a margem tem que ser feita primeiro de cima e vai girando em sentido
+margin-left: 10px;      horario, cima, direita, baixo esquerda
+
+margin: auto; = centraliza automaticamente
+
+outline-width: 5px; = cria um tracejado em volta da caixa
+outline-style:dashed; = do tipo dashed é o nome do tracejado
+outline-color: salmon; = e a cor do tracejado
+
+
+SIMPLIFICANDO 					EU VOU CONSEGUIR!!!
+
+border: 10px solid darkslategray;
+
+padding: 10px 10px 10px 10px; =  se o valor de paddin for igual para todas as direções entao eu so preciso informar este
+				valor uma vez ex: padding: 10px;. caso eu coloque dois valores padding: 10px 20px; ele
+				ira colocar intercalando ex: padding:10px 20px 10px 20px;
+
+margin: 20px 20px 40px 20px; =  tambem posso fazer assim margin: 20px auto 40px auto;. Assim ele vai centralizar a margem 				entre a direita e a esquerda
+
+outline: 5px dashed salmon;
+
+
+height: 300px;  = chamado de box-size que seria a altura e a largura da minha caixar
+width: 300px;
+

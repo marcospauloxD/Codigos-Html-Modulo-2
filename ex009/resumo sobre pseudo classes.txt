@@ -1,0 +1,14 @@
+display: inline-block; = deixa tudo no mesmo bloco, alinhado um do lado do outro
+
+ height: 200px; = altura 
+
+width: 200px; = largura
+
+border: 1px solid black =  cria uma borda em volta, 1px e o tamanho, black e a cor, solid e o tipo da borda
+
+
+eu vou conseguir!!!
+
+: é uma pseudo classe, precisam estar relacionadas a um elemento ou uma classe.
+
+div:hover{} = pseudo classe de varios elementos, esse houver ele faz uma ação quando eu passo o mouse por cima

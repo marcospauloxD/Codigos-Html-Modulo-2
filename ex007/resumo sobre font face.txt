@@ -1,0 +1,13 @@
+<style>
+        @font-face {
+            font-family: ;
+            src: url('love larry ttf') format();
+        }
+
+na url se coloca o nome do arquivo. 'love larry ttf' nome do arquivo entre aspas simples
+
+tipos de format() = - opentype (otf)
+		    - truetype (ttf)
+		    - embedded-opentype
+		    - truetype-att (Apple Advanced Typography)
+		    - svg

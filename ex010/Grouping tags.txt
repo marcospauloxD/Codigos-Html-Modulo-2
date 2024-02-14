@@ -1,0 +1,27 @@
+<header> =  cabeçalho
+
+<main> = conteudo principal
+
+<footer> = rodapé
+
+<nav> = menu, serve para colocar os links
+
+<section id="noticias"> = creio que serve para separar por sessões, como aqui esta noticia ou nesse <section id="assuntos">
+que está como assuntos
+
+<article> =  creio que aqui seria artigos
+	 e dentro desse artigo deve ter <aside> com o nome do autor
+
+article > aside = essa seta > significa que aside esta dentro de article 
+
+nav > a{
+            text-decoration: none;
+        }
+mesmo esquema e com nav > a que significa que a esta dentro de nav, é eu estou alterando a decoração que tem nos links, que e um sublinhado que fica abaixo do link
+
+
+ nav > a:hover{
+            text-decoration: underline;
+        }
+
+esse hover serve para quando eu passar o mouse por cima dos links ele sublinhar

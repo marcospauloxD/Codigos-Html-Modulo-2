@@ -1,0 +1,38 @@
+a:visited{} = serve para saber se o site ja foi visitado
+
+a{
+    text-decoration: none; = tira o sublinhado 
+    font-weight: bold; = deixa a fonte em negrito
+}
+
+a:hover{
+            text-decoration: underline; = quando passar o mouse por cima ele ira sublinhar o link
+        }
+
+a:active{
+            color: yellow; = quando eu clicar ele vai aparecer em amarelo
+        }
+
+a::before{ = antes de todos os links
+            content: '♗';
+        }
+
+
+a::after {   a::after = depois de todos os links 
+            
+	content: '[link]'; = fica uma indicação avisando que aquilo e um link
+        }
+
+SELETORES PERSONALIZADOS
+
+#  = id
+.  = class
+:  = pseudo-class
+:: = pseudo-element
+>  = clildren
+
+
+
+
+
+

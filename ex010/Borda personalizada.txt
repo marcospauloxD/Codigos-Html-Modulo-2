@@ -1,0 +1,12 @@
+border-image-source: url('borda.png');  =  coloca o arquivo png na borda
+
+border-image-repeat: repeat; = repete algumas imagens que estão na parte de cima, baixo, direita e esquerda
+
+border-image-repeat: stretch; =  estica as linhas de cima,baixo,esquerda e direita
+
+
+border-image: url('borda.png') 27 repeat; = escrito de forma abreviada
+
+border: 20px solid transparent; =  essa borda precisa existir para que ela segure o lugar onde voce quer fazer
+a borda personalizada, é transparente e para que a cor da borda não atrapalhe, caso o navegador não seja compativel 
+com transparent, e so usar o cor black

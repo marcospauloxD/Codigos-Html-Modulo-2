@@ -1,0 +1,32 @@
+<link rel="stylesheet" href="style.css"> = usei para separar o arquivo css do arquivo principal, porque da para alterar melhor fontes ou cores
+
+<main> = e como se fosse uma div que diz que esse e o meu arquivo principal
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100%; = 				=   configuração global
+}
+
+
+p{
+    text-align: justify; = alinha os texto do p
+}
+
+width: 600px; = largura do main
+
+padding: 10px; = e pra quando chegar no final das palavras ele dar uma espacinho
+
+margin: auto; = centraliza a tela imdependente do seu tamanho
+
+border-radius: 20px; = curva um pouco as bordas da pagina
+
+box-shadow: 10px 10px 10px black; = faz uma sombra em baixo do main, cada 10px e para saber o quanto ele vai para a direita, para baixo, de espalhamento é na cor preta
+
+text-align: center; = deixa o titulo centralizado
+
+eu vou conseguir!!!
+
+
+
+
+

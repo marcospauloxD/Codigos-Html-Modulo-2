@@ -1,0 +1,36 @@
+<style>
+        body{
+            font-family: Arial, Helvetica, sans-serif = na parte de font-family ele primeiro vai tentar
+        }
+    </style>
+= na parte de font-family ele primeiro vai tentar a arial, caso nao tenha, ele vai para a helvetica e caso não tenha tambem
+ele vai para a sans-serif
+
+ h1, h2{
+        font-family: 'Times New Roman', Times, serif;
+    }
+
+da pra mudar tanto h1 como h2 na mesma linha de comando
+
+parte sobre tamanha de fontes:
+
+medidas absolutas: São o cm (centimetro), mm (milimetro), in (polegada), px (pixel), pt (ponto), pc (paica)
+
+medidas relativas: São em (medida relativa ao tamanho atual da fonte), ex (que e relativa a altura x de uma fonte),
+rem ( é tipo o em, pore é relativo ao root que é a fonte que esta configurada no body{}), vw (view widht : largura da view port, que seria o tamanho da tela), vh (view heidht: altura da view port), % (porcentagem)
+
+
+font-weight = indica o peso da fonte, posso usar ligther, normal, bold, bolder, o ligther e uma fonte mais magra, a normal é uma fonte média, é assim vai, tambem pode ser usado a ordem numero que seria de 100 até 900.
+
+font-style: italic; = deixa a fonte em italico, porem a fonte precisa ter essa configuração
+
+ text-decoration: underline; = sublinha o texto
+
+um jeito mais facil de condensar as configurações de fonte em uma unica linha utilizando font
+
+ordem do que tem que colocar: font-style -> font-weight -> font-size -> font-family
+		
+Exemplo: font: italic bolder 3em 'Work Sans',sans-serif;
+
+
+
